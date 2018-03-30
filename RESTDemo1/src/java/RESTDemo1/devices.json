@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Room1",
+    "type": "Temp",
+    "id": 1
+  },
+  {
+    "name": "CoolingRoom",
+    "type": "Temp",
+    "id": 2
+  },
+  {
+    "name": "Roof",
+    "type": "Humidity",
+    "id": 3
+  }
+]
